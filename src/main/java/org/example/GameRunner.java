@@ -6,7 +6,7 @@ public class GameRunner {
 
     public static void main(String[] args) {
         // Start background music
-        String filepath = "CasinoJazz.wav";
+        String filepath = "src/main/java/org/example/CasinoJazz.wav";
         PlayMusic music = new PlayMusic();
         music.playMusic(filepath);
 

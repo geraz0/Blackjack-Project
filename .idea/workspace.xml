@@ -6,11 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="e6229ae6-297b-4f39-b825-3cf2ee401ad7" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Card.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Card.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Deck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Deck.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/GameRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/GameRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/PlayMusic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/PlayMusic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/GameRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/GameRunner.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,7 +91,7 @@
       <updated>1722537882560</updated>
       <workItem from="1722537883260" duration="76000" />
       <workItem from="1722538046757" duration="26000" />
-      <workItem from="1722538144716" duration="4953000" />
+      <workItem from="1722538144716" duration="5634000" />
     </task>
     <servers />
   </component>
