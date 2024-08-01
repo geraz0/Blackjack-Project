@@ -1,12 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="e6229ae6-297b-4f39-b825-3cf2ee401ad7" name="Changes" comment="" />
+    <list default="true" id="e6229ae6-297b-4f39-b825-3cf2ee401ad7" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Card.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Card.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Deck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Deck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/GameRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/GameRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/PlayMusic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/PlayMusic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Player.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "geraz0"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "git@github.com:geraz0/Blackjack-Project.git",
+    "accountId": "d303fb6a-4549-443f-acaa-ad94cb710fcb"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -15,16 +40,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/gerazo/FS103/Blackjack-Project&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/gerazo/FS103/Blackjack-Project/src/Main.java&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.GameRunner.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/gerazo/FS103/Blackjack-Project",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "/Users/gerazo/FS103/Blackjack-Project/src/Main.java",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
@@ -63,6 +94,7 @@
       <updated>1722537882560</updated>
       <workItem from="1722537883260" duration="76000" />
       <workItem from="1722538046757" duration="26000" />
+      <workItem from="1722538144716" duration="4953000" />
     </task>
     <servers />
   </component>

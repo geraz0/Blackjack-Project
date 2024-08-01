@@ -8,12 +8,12 @@ import javax.sound.sampled.Clip;
 import javax.sound.sampled.FloatControl;
 
 public class PlayMusic {
-     
+
     public void playMusic(String musicLocation) {
 
         try {
             File musicPath = new File(musicLocation);
-            
+
             if (musicPath.exists()){
                 AudioInputStream audioInput = AudioSystem.getAudioInputStream(musicPath);
                 Clip clip = AudioSystem.getClip();
